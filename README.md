@@ -4,3 +4,5 @@
 This project was conducted in the first half of 2023 as part of my penultimate year of studies. My role in the experiment was the computational physicist, which made me responsible for creating a simulation of capillary waves dependent on properties of the fluid (i.e: Surface Tension, Temperature)
 
 Attached is a Jupyter Notebook (ipynb) file, detailing the modelling done. Most of what has done in this experiment has been theoretically derived before, however this was still a very interesting project.
+
+The programming language used was Python, if you intend to run this file on your own IDE, ensure you have the "numpy", "imageio", "matplotlib" and "mpl_toolkits.mplot3d" installed.
